@@ -110,7 +110,7 @@ Please refer swagger document for API contract Swagger UI: http://localhost:8080
 ## 📫 Postman Collection
 
 Use the following link to import the pre-configured Postman collection:
-🔗 [Postman Collection](https://abb.com)
+🔗 [Postman Collection](https://lunar-zodiac-822690.postman.co/workspace/My-Workspace~b392624a-95e9-4f98-8fc6-b52bf0de9d70/collection/4823605-df4d2ba5-2e77-42e8-8628-85ca79d5890b?action=share&creator=4823605)
 
 > Make sure to replace the JWT token in the environment after login.
 
